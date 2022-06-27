@@ -1,0 +1,15 @@
+.margin{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.mar{
+    margin: 30px 40px 30px 40px;
+}
+.border{
+    border : 5px solid red;
+}
+.pad{
+    padding: 50px 50px 40px 40px;
+}
